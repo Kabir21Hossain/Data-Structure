@@ -20,8 +20,6 @@
         newnode->next=NULL;
         top=newnode;
         }
-
-    
         else
         {
             newnode->data=x;
@@ -30,8 +28,7 @@
             
         }
     
-    }
-
+     }
 
     void pop()
     {
